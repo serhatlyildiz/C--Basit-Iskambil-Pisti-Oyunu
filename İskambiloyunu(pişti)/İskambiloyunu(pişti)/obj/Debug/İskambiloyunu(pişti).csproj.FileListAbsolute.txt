@@ -1,0 +1,9 @@
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\bin\Debug\İskambiloyunu(pişti).exe.config
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\bin\Debug\İskambiloyunu(pişti).exe
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\bin\Debug\İskambiloyunu(pişti).pdb
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\obj\Debug\İskambiloyunu(pişti).csprojResolveAssemblyReference.cache
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\obj\Debug\İskambiloyunu_pişti_.Form1.resources
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\obj\Debug\İskambiloyunu_pişti_.Properties.Resources.resources
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\obj\Debug\İskambiloyunu(pişti).csproj.GenerateResource.Cache
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\obj\Debug\İskambiloyunu(pişti).exe
+E:\serhat 2.donem 11.hafta\İskambiloyunu(pişti)\İskambiloyunu(pişti)\obj\Debug\İskambiloyunu(pişti).pdb
